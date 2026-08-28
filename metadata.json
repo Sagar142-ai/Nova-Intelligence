@@ -1,0 +1,6 @@
+{
+  "name": "Nova AI — Intelligent Voice Assistant",
+  "description": "An AI voice assistant architecture with reasoning, memory, intent classification, tools, and text-to-speech voice interaction.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
